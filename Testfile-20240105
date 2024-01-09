@@ -31,8 +31,8 @@ Jan 9, 2024
 7:31 PM
 Main Branch Update before creating Test Branch 6 for testing rebase
 
-7:40 PM
-First Commit after making Test Branch 6. No rebase yet.
+7:50 PM
+Comment in Testbranch 6, before rebase
 
-7:49 PM
-Second Commit before rebase.
+7:51 PM
+Another comment in Testbranch 6 before rebase
